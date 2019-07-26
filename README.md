@@ -1,2 +1,2 @@
-# squirrel-genetic-algorithm
+# geneticAlgorithm
 Simple evolutionary algorithm
